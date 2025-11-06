@@ -4,9 +4,9 @@ Um projeto com **API Backend** e **interface Streamlit** para responder pergunta
 
 ---
 
-## 🚀 Rodando a aplicação localmente
+##  Rodando a aplicação localmente
 
-### 🧠 Backend (API)
+###  Backend (API)
 ```bash
 # Construir a imagem Docker
 docker build --no-cache -t case_petlove_api .
@@ -20,7 +20,7 @@ docker run --rm -p 8080:8000 --env-file .env case_petlove_api
 
 ---
 
-### 💻 Streamlit (Interface visual no com biblioteca python)
+###  Streamlit (Interface visual no com biblioteca python)
 ```bash
 python -m uvicorn app.main:app --reload
 ```
@@ -30,7 +30,7 @@ python -m uvicorn app.main:app --reload
 >Ele permite construir interfaces visuais simples e rápidas para interagir com modelos de IA e dados em tempo real.
 ---
 
-## 🧪 Executando os testes
+##  Executando os testes
 ```bash
 python -m pytest -v
 ```
@@ -50,7 +50,7 @@ curl -s -X POST \
   -d '{"message":"ração para gato siamês"}'
 ```
 
-📸 *Exemplo de pergunta e resposta:*  
+ *Exemplo de pergunta e resposta:*  
 _(adicione aqui a imagem da sua interface mostrando o resultado)_
 
 ---
@@ -62,7 +62,7 @@ Também foi desenvolvida uma interface visual simples usando **Streamlit**, cone
 A página está disponível em:  
 👉 [http://petlove-assistente-dev.us-west-2.elasticbeanstalk.com/](http://petlove-assistente-dev.us-west-2.elasticbeanstalk.com/)
 
-📸 *Exemplo de pergunta e resposta:*  
+ *Exemplo de pergunta e resposta:*  
 _(adicione aqui a imagem do Streamlit em funcionamento)_
 
 ---
