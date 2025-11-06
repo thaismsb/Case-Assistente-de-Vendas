@@ -51,6 +51,8 @@ curl -s -X POST \
 ```
 
  *Exemplo de pergunta e resposta:*  
+ <img width="1423" height="473" alt="image" src="https://github.com/user-attachments/assets/e3a794d2-005a-4150-888a-beb95178ba26" />
+
   
 
 ---
