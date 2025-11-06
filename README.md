@@ -1,6 +1,6 @@
 # 🐾 Case Petlove – Assistente de Recomendação
 
-Um projeto com **API Backend** e **interface Streamlit** para responder perguntas e gerar recomendações sobre produtos Petlove usando IA.  
+Um projeto com **API Backend** e **interface Streamlit** para responder perguntas e gerar recomendações sobre produtos para pets usando IA.  
 
 ---
 
@@ -51,7 +51,7 @@ curl -s -X POST \
 ```
 
  *Exemplo de pergunta e resposta:*  
-_(adicione aqui a imagem da sua interface mostrando o resultado)_
+  
 
 ---
 
@@ -62,8 +62,9 @@ Também foi desenvolvida uma interface visual simples usando **Streamlit**, cone
 A página está disponível em:  
 👉 [http://petlove-assistente-dev.us-west-2.elasticbeanstalk.com/](http://petlove-assistente-dev.us-west-2.elasticbeanstalk.com/)
 
- *Exemplo de pergunta e resposta:*  
-_(adicione aqui a imagem do Streamlit em funcionamento)_
+ *Imagem do chat:*  
+ <img width="1844" height="920" alt="image" src="https://github.com/user-attachments/assets/45e6ddc1-7cb7-4c9a-b01d-e2b1ed23b2b5" />
+
 
 ---
 
